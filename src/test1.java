@@ -4,4 +4,9 @@ public class test1 {
         System.out.println("test11test");
     }
 
+
+    public int getAge() {
+        return 39;
+    }
+
 }
